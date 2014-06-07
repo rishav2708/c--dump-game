@@ -1,0 +1,28 @@
+C:\Users\TOSHIBA\Desktop\DumpGame\DumpGame\bin\Debug\DumpGame.exe
+C:\Users\TOSHIBA\Desktop\DumpGame\DumpGame\bin\Debug\DumpGame.pdb
+C:\Users\TOSHIBA\Desktop\DumpGame\DumpGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\DumpGame\DumpGame\obj\x86\Debug\WindowsFormsApplication1.Dump_professors.resources
+C:\Users\TOSHIBA\Desktop\DumpGame\DumpGame\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\DumpGame\DumpGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\TOSHIBA\Desktop\DumpGame\DumpGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\TOSHIBA\Desktop\DumpGame\DumpGame\obj\x86\Debug\DumpGame.exe
+C:\Users\TOSHIBA\Desktop\DumpGame\DumpGame\obj\x86\Debug\DumpGame.pdb
+C:\Users\TOSHIBA\Desktop\DumpGame\DumpGame\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\TOSHIBA\Desktop\Windows 7 apps\DumpGame\DumpGame\obj\x86\Debug\DumpGame.exe
+C:\Users\TOSHIBA\Desktop\Windows 7 apps\DumpGame\DumpGame\obj\x86\Debug\DumpGame.pdb
+C:\Users\TOSHIBA\Desktop\Windows 7 apps\DumpGame\DumpGame\bin\Debug\DumpGame.exe
+C:\Users\TOSHIBA\Desktop\Windows 7 apps\DumpGame\DumpGame\bin\Debug\DumpGame.pdb
+C:\Users\TOSHIBA\Desktop\Windows 7 apps\DumpGame\DumpGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Windows 7 apps\DumpGame\DumpGame\obj\x86\Debug\WindowsFormsApplication1.Dump_professors.resources
+C:\Users\TOSHIBA\Desktop\Windows 7 apps\DumpGame\DumpGame\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\TOSHIBA\Desktop\Windows 7 apps\DumpGame\DumpGame\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\Windows 7 apps\DumpGame\DumpGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\TOSHIBA\Desktop\Windows 7 apps\DumpGame\DumpGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\TOSHIBA\Desktop\Windows 7 apps\DumpGame\DumpGame\bin\Debug\DumpGame.exe.manifest
+C:\Users\TOSHIBA\Desktop\Windows 7 apps\DumpGame\DumpGame\bin\Debug\DumpGame.application
+C:\Users\TOSHIBA\Desktop\Windows 7 apps\DumpGame\DumpGame\obj\x86\Debug\DumpGame.exe.manifest
+C:\Users\TOSHIBA\Desktop\Windows 7 apps\DumpGame\DumpGame\obj\x86\Debug\DumpGame.application
+C:\Users\TOSHIBA\Desktop\DumpGame\DumpGame\bin\Debug\DumpGame.exe.manifest
+C:\Users\TOSHIBA\Desktop\DumpGame\DumpGame\bin\Debug\DumpGame.application
+C:\Users\TOSHIBA\Desktop\DumpGame\DumpGame\obj\x86\Debug\DumpGame.exe.manifest
+C:\Users\TOSHIBA\Desktop\DumpGame\DumpGame\obj\x86\Debug\DumpGame.application
